@@ -1,6 +1,0 @@
-print("O")
-print("O")
-print("O")
-print("O")
-print("x")
-print("O")
