@@ -3,7 +3,7 @@ import math
 
 #6
 #12.10.2026
-#
+# program dela animaci kulicky
 
 
 pocet= int(input("jakej bude pocet"))
