@@ -5,7 +5,9 @@ import math
 #12.10.2026
 #
 
-pocet = 9
+
+pocet= int(input("jakej bude pocet"))
+
 print("kulicka")
 
 for i in range(pocet):
